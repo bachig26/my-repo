@@ -8,7 +8,7 @@
 		"downloadURL": "https://github.com/bachig26/my-repo/releases/download/2022.06.16/PlayDiary.ipa",
 		"localizedDescription": "Play Diary is a port of HDO Box to watch Movies and TV Shows with big catalogues and cool user interface.\nHDO BOX is completely free to use but is a closed project.",
 		"iconURL": "https://raw.githubusercontent.com/bachig26/my-repo/main/hdo/app_icon.png",
-		"tintColor": "#a90000",
+		"tintColor": "#bf3e0e",
 		"size": 11900000,
 		"screenshotURLs": [
 			"https://raw.githubusercontent.com/bachig26/my-repo/main/hdo/home.png",
